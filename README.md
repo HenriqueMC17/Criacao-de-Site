@@ -21,10 +21,6 @@ Projeto de desenvolvimento web contendo exemplos e exercícios de criação de s
 - HTML
 - CSS
 - JavaScript
-[Lista de outras tecnologias será adicionada aqui]
 
 ## Autor
-[Seu nome será adicionado aqui]
-
-## Data de Criação
-[Data será adicionada aqui] 
+Henrique Monteiro Cardoso
